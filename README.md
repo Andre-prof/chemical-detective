@@ -16,7 +16,8 @@ Abra `index.html` em um navegador moderno. Não exige instalação nem compilaç
 - Equações e explicações dos métodos no experimento e no caderno.
 - Bloqueio de repetição dos ensaios concluídos na etapa atual e convite do químico para seguir à próxima amostra.
 - Tratamentos simulados, reanálise da amostra B e comparação dos resultados.
-- Caderno de laboratório com hipóteses, conclusões e exportação em texto.
+- Caderno com hipóteses, conclusões e a aba “Entendendo as análises”. Cada capítulo é liberado após um resultado registrado, com princípio, leitura, interpretação e equação do ensaio.
+- Exportação em Excel (.xlsx), com cabeçalho ilustrado incorporado, resultados com unidades e anotações em duas abas. CSV em UTF-8 com separador ponto e vírgula e texto (.txt) também disponíveis. Apenas resultados registrados são exportados; limites de quantificação permanecem identificados como limites.
 
 O progresso é salvo localmente no navegador. Não há contas de aluno, banco de dados nem envio dos registros a um servidor. Fontes tipográficas são carregadas do Google Fonts quando há conexão; fontes alternativas estão disponíveis.
 
